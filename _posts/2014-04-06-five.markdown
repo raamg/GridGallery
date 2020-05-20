@@ -2,6 +2,6 @@
 layout: default
 date:   2014-04-06 23:26:12
 photo: 5.png
-caption_header: Sample header
-caption: sample caption
+caption_header: Caption 5 is the lenght of 20 words and then it works by making the changes to what is needed at the bottom of the screen.
+caption: Tony and Bin were two little friends who came up with idea to invent a airplane using only plastics. They did try build one when they retired. However when they flew Tony also flew by the hill. Bin then made modifications... 
 ---
